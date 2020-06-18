@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author M
- *
- */
-package view;

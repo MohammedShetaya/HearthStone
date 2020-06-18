@@ -1,0 +1,30 @@
+1-To select the heroes :
+There is a page  after clicking start button.This page contains the buttons of the four types of heroes the first click on any of them will select the first hero and the second click will select the second one.
+
+
+
+2-To paly a minion from the current hero hand :
+We just click on the card button this will move the card to the current hero field.
+
+
+
+3-To cast a spell :
+We click on the spell button from the hand of the current hero if the spell does not need a target this will cause the spell to perform its action directly and if the spell needs a target then after clicking on the spell we want to spell, we need to click on the target.
+
+
+4-To use a minion to attack the opponent minions : 
+We click on the minion we want to attack with from the field and then we click on the target we want to attack this will cause the minion to perform its action.
+
+
+
+5-To end turn : 
+There is a button on the frame colored green "END TURN" button.
+
+
+
+
+6-The current hero takes the lower half of the screen and the opponent appears on the higher part.
+
+
+
+7-The star button is used to use the current hero power and if it needs a target then we need to select which target after clickong on the star "hero power button".
